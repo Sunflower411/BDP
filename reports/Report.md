@@ -6,4 +6,5 @@ it is a free form. you can add:
 * your test result
 * etc.
 
-> We use Assignment-nr-Design.MD for design and Assignment-nr-Deployment.MD for deployment report.
+> We use Assignment-801966-Design.MD for design and Assignment-801966-Deployment.MD for deployment report.
+> Please see the answers in the three md files.

@@ -1,0 +1,30 @@
+{
+  "name": "bdp",
+  "version": "1.0.0",
+  "description": "> Guide line: This is the file where you will explain the structure of your assignment delivery. Remember to replace **Assignment_NR** with the number of the assignment (e.g., 1, 2, 3, or 4) and **Your_STUDENTID** with your student number. Remove all guidelines from the template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunflower411/BDP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunflower411/BDP/issues"
+  },
+  "homepage": "https://github.com/Sunflower411/BDP#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "csv-string": "^3.1.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongodb": "^3.3.2",
+    "neat-csv": "^5.1.0",
+    "node-fetch": "^2.6.0",
+    "rxjs": "^6.5.3"
+  }
+}
